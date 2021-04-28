@@ -107,6 +107,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+	- [Python Tutorial | Tutlane](https://www.tutlane.com/tutorial/python)
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
@@ -187,6 +188,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
+-  [Learn Android with Examples](https://www.tutlane.com/tutorial/android)
 
 ## 1.5 Backend Development
 
@@ -218,6 +220,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Mixu's Node book](http://book.mixu.net/node/)
     - [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
+    - [Learn Node.js with Examples](https://www.tutlane.com/tutorial/nodejs)
 
 - **PHP**
     - [PHP Manual](http://php.net/manual/en/index.php)
@@ -296,9 +299,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
-	- [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
-	- [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
-	- [Bootstrap4 Documentation] (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+    - [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
+    - [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
+    - [Bootstrap4 Documentation] (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+    - [Bootstrap4 Tutorial](https://www.tutlane.com/tutorial/bootstrap)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -509,6 +513,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [DotNetPerls - C# Reference](https://www.dotnetperls.com/)
 - [The "Yellow Book": Introduction to C# Programming by Rob Miles](http://www.csharpcourse.com/)
 - [MSDN C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)
+- [C# Tutorial | Tutlane](https://www.tutlane.com/tutorial/csharp)
 
 ## 1.17 DevDocs
 
